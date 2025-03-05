@@ -15,7 +15,7 @@ public class DMVSimulator {
 		
 
 		System.out.println();
-        System.out.println("Ha, what a loser. This blistering baffoon lacks the required credentials. Get out of my sight you worthless rat.");
+        System.out.println("Ha, what a loser. This blistering baffoon lacks the required credentials. Get out of my sight you worthless rat. RAHAHAHAHAHA");
 
 	}
 }
