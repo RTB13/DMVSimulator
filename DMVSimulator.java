@@ -15,7 +15,11 @@ public class DMVSimulator {
 		
 
 		System.out.println();
-        System.out.println("Ha, what a loser. This blistering baffoon lacks the required credentials. Get out of my sight you worthless rat. RAHAHAHAHAHA");
 
+		if (Math.random() <0.99) {
+			System.out.println("Ha, what a loser. This blistering baffoon lacks the required credentials. Get out of my sight you worthless rat.");
+		} else {
+            System.out.println("Wait... this can't be right... You actually have all the required paperwork? You're all set! Have a nice day!");
+		}
 	}
 }
